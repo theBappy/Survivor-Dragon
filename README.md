@@ -1,0 +1,2 @@
+--> The survival of the dragon with Pure JS
+--> The images are in the 'images' file
